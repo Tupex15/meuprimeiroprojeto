@@ -112,5 +112,7 @@ html, body, .box-100-height {
 
 #content {
     overflow-y: auto;
+    padding: 0;
     
+
 }
